@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsronnect",
+        "uuid": 11400790,
+        "checksum": "3pfpm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
